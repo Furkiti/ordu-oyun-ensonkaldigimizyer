@@ -1,0 +1,73 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.3.4f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/furkanbedir/Desktop/UnityProjects/stackerman3d
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+49318
+Successfully changed project path to: /Users/furkanbedir/Desktop/UnityProjects/stackerman3d
+/Users/furkanbedir/Desktop/UnityProjects/stackerman3d
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 40.68 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.4f1 (0abb6314276a)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.3.4f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/furkanbedir/Desktop/UnityProjects/stackerman3d/Assets
+GfxDevice: creating device client; threaded=0
+2021-08-29 16:22:01.566 Unity[1066:22250] (null) preferred device: Apple M1 (high power)
+2021-08-29 16:22:01.566 Unity[1066:22250] Metal devices available: 1
+2021-08-29 16:22:01.566 Unity[1066:22250] 0: Apple M1 (high power)
+2021-08-29 16:22:01.566 Unity[1066:22250] Using device Apple M1 (high power)
+Initializing Metal device caps: Apple M1
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.3.4f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.3.4f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.3.4f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56066
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.4f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.002784 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 44.74 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.664 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000895 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.690 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/Unity/Hub/Editor/2020.3.4f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.48 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1611 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 130.0 MB.
+System memory in use after: 130.1 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2049.
+Total: 1.984334 ms (FindLiveObjects: 0.190958 ms CreateObjectMapping: 0.046792 ms MarkObjects: 1.674250 ms  DeleteObjects: 0.071625 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scripts/GameManager.cs
+  artifactKey: Guid(0822e7c70bb2944628bda72c0899796e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/GameManager.cs using Guid(0822e7c70bb2944628bda72c0899796e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53433a0c7710fe5d73745bb8889b7645') in 0.234796 seconds
+  Import took 0.237359 seconds .
+
